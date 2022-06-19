@@ -29,4 +29,4 @@ if __name__ == '__main__':
     maximo = max(value_list)
     minimo = min(value_list)
 
-    sys.stdout.writet("{}\{}\t{}\n".format(curkey, maximo, minimo))
+    sys.stdout.write("{}\{}\t{}\n".format(curkey, maximo, minimo))
